@@ -1,7 +1,7 @@
 
 ### Tax Calculation System
 
-This Java-based project, developed in NetBeans using Maven, is designed to assist users in calculating taxes under both the new and old tax regimes. The project is backed by a MySQL database managed through XAMPP, ensuring secure and efficient data handling. The system provides a user-friendly interface for managing various types of income, investments, and allowances, while also offering robust security features such as password management and email verification via OTP.
+This Java-based project, developed in NetBeans using Maven, is designed to automate tax calculation system and to address a real-world problem-----(lack of transparency in tax breakdowns). It provides users with a detailed view of allowances & deductions, helping taxpayers optimize savings and gain a clearer understanding of their finances.. The project is backed by a SQL database managed through XAMPP, ensuring secure and efficient data handling. The system provides a user-friendly interface for managing various types of income, investments, and allowances, while also offering robust security features such as password management and email verification via OTP.
 
 ### Features:
 1. **Tax Summary Download**: Users can easily download a summary of their taxes after entering all relevant tax calculation details.
@@ -34,6 +34,8 @@ This Java-based project, developed in NetBeans using Maven, is designed to assis
 5. build the project with dependencies and you are good to go.
 
 
+
+![Untitled design](https://github.com/user-attachments/assets/3d9b8208-60eb-4a5b-bfbd-269609e52b33)
 ![image](https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6)
 ![image](https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d)
 ![image](https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a)
