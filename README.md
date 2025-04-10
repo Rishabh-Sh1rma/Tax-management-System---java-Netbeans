@@ -36,21 +36,27 @@ This Java-based project, developed in NetBeans using Maven, is designed to autom
 
 <div align="center">
 
-  <h2>📸 Project Gallery</h2>
+  <h2>🚀 Project Showcase</h2>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 20px;
+  ">
 
-    <img src="https://github.com/user-attachments/assets/3d9b8208-60eb-4a5b-bfbd-269609e52b33" width="300" />
-    <img src="https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6" width="300" />
-    <img src="https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d" width="300" />
-    <img src="https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a" width="300" />
-    <img src="https://github.com/user-attachments/assets/554eb594-6551-4cd4-9547-b1146caa6ae3" width="300" />
-    <img src="https://github.com/user-attachments/assets/900a3c1a-a6f0-48fc-a5bc-3d38c1037af3" width="300" />
-    <img src="https://github.com/user-attachments/assets/14b9637e-6752-4f39-8b96-9d918203f4d4" width="300" />
+    <img src="https://github.com/user-attachments/assets/62dd5c5f-b7d8-4a17-a417-f14364067579" width="300" />
+    <img src="https://github.com/user-attachments/assets/22238782-57ff-45c3-922a-807757c7fee4" width="300" />
+    <img src="https://github.com/user-attachments/assets/1091faf7-0908-41c5-898c-a40ee6f18032" width="300" />
+    <img src="https://github.com/user-attachments/assets/52a95a95-9f81-43fc-9e6b-2b45c17e514d" width="300" />
+    <img src="https://github.com/user-attachments/assets/e33ae3cb-e06e-4a5e-a9dd-f1b97f697356" width="300" />
+    <img src="https://github.com/user-attachments/assets/eb754b68-3801-409e-8c74-a176f084a271" width="300" />
 
   </div>
 
 </div>
+
 
 
 
