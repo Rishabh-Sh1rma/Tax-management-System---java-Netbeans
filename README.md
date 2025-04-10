@@ -34,11 +34,32 @@ This Java-based project, developed in NetBeans using Maven, is designed to autom
 5. build the project with dependencies and you are good to go.
 
 
+<div align="center">
+
+  <h2>📸 Project Gallery</h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+    <img src="https://github.com/user-attachments/assets/3d9b8208-60eb-4a5b-bfbd-269609e52b33" width="300" />
+    <img src="https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6" width="300" />
+    <img src="https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d" width="300" />
+    <img src="https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a" width="300" />
+    <img src="https://github.com/user-attachments/assets/554eb594-6551-4cd4-9547-b1146caa6ae3" width="300" />
+    <img src="https://github.com/user-attachments/assets/900a3c1a-a6f0-48fc-a5bc-3d38c1037af3" width="300" />
+    <img src="https://github.com/user-attachments/assets/14b9637e-6752-4f39-8b96-9d918203f4d4" width="300" />
+
+  </div>
+
+</div>
+
+
+
 
 ![Untitled design](https://github.com/user-attachments/assets/3d9b8208-60eb-4a5b-bfbd-269609e52b33)
 ![image](https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6)
 ![image](https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d)
 ![image](https://github.com/user-attachments/assets/4d802378-1114-42f7-a9f6-f637b991923a)
 ![image](https://github.com/user-attachments/assets/554eb594-6551-4cd4-9547-b1146caa6ae3)
+![image](https://github.com/user-attachments/assets/900a3c1a-a6f0-48fc-a5bc-3d38c1037af3)
 ![image](https://github.com/user-attachments/assets/14b9637e-6752-4f39-8b96-9d918203f4d4)
 
