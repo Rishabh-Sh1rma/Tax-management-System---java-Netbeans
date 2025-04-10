@@ -34,6 +34,7 @@ This Java-based project, developed in NetBeans using Maven, is designed to autom
 5. build the project with dependencies and you are good to go.
 
 ![Untitled design](https://github.com/user-attachments/assets/3d9b8208-60eb-4a5b-bfbd-269609e52b33)
+![image](https://github.com/user-attachments/assets/959ae55f-ae7a-4204-b1dd-19b412f77e1c)
 ![image](https://github.com/user-attachments/assets/5c45dcfe-2d1c-4bc7-a69e-cc6d9be0aff6)
 ![image](https://github.com/user-attachments/assets/eb112465-7972-4d03-b28a-2b5ca1590be2)
 ![image](https://github.com/user-attachments/assets/05c01052-e392-470d-a5dd-8a480918478d)
